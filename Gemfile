@@ -16,3 +16,4 @@ end
 
 gem 'jquery-rails'
 gem 'angularjs-rails'
+gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'

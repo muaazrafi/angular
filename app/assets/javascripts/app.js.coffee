@@ -1,0 +1,1 @@
+window.eventsApp = angular.module('eventsApp',[])
